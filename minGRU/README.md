@@ -1,4 +1,4 @@
-# RNN's Revenge — minGRU experiments
+### RNN's Revenge — minGRU experiments
 
 minGRU owner's portion of the COMP6242 group project. See
 `rnns_revenge_proposal.pdf` for the full proposal; this repo implements the
