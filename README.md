@@ -4,6 +4,8 @@
 
 Mayukh Das (u7965027) · Vibhansh Gupta (u7861976) · Daniel Vaz (u7990536) · Adam Clark (u7437561)
 
+▶ **[Watch the 5-minute presentation](https://youtu.be/OvVEqdIfFJs)**
+
 ---
 
 ## Abstract
